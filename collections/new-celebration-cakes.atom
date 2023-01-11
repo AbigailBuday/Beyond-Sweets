@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thesugarfreebakery.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thesugarfreebakery.com/collections/new-celebration-cakes.atom"/>
+  <title>The Sugar-Free Bakery</title>
+  <updated>2023-01-04T18:03:21+08:00</updated>
+  <author>
+    <name>The Sugar-Free Bakery</name>
+  </author>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6675701530704</id>
+    <published>2023-01-04T18:03:21+08:00</published>
+    <updated>2023-01-04T18:03:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/salted-caramel-cheesecake-8"/>
+    <title>Salted Caramel Cheesecake 8&quot;</title>
+    <s:type>Cake</s:type>
+    <s:vendor>The Sugar-Free Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/CaramelCakeweb3.jpg?v=1650778680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Sugar-Free Bakery<br>
+        <strong>Type: </strong>Cake<br>
+        <strong>Price: </strong>
+            1800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate with every bite of our creamy cheesecake with its crushed almond crust, drizzled with rich salted caramel, and topped with chocolate hazelnut balls filled with a surprise twist.</p>
+<p><span><span data-mce-fragment="1" style="font-weight: 400;">This cake is absolutely:</span></span></p>
+<ul>
+<li><span data-mce-fragment="1" style="font-weight: 400;">Sugar-free</span></li>
+<li><span data-mce-fragment="1" style="font-weight: 400;">Diabetic-friendly</span></li>
+<li><span data-mce-fragment="1" style="font-weight: 400;">Keto</span></li>
+<li><span data-mce-fragment="1" style="font-weight: 400;">Low Carb<br></span></li>
+</ul>
+<strong> <meta charset="utf-8"> </strong>
+<p style="text-align: left;"><strong>Sugar-Free Salted Caramel Cheesecake 8"</strong><br data-mce-fragment="1">Php 1,800 good for 10 servings<br data-mce-fragment="1">Best consumed immediately</p>
+<p><strong data-mce-fragment="1"><i data-mce-fragment="1">**PLEASE NOTE THAT FULL PAYMENT IS REQUIRED BEFORE YOUR ORDER IS PROCESSED.**</i></strong><br><strong></strong></p>
+<p><strong>DELIVERY INFO</strong></p>
+<p><span>For sugar-free cakes, we will deliver your orders <meta charset="utf-8">straight to your doorstep from Sunday-Saturday between 1</span><span>PM-5</span><span>PM. Cut-off is every 5PM for Next-Day Delivery from Monday-Sunday.</span></p>
+<p><span>Please expect a message from our rider when your order is about to be delivered. </span></p>
+<p><b>Multiple Address Delivery &amp; Bulk Order</b><br></p>
+<p class="p1"><meta charset="utf-8"><span data-mce-fragment="1">For 2 or more delivery addresses (with a minimum spend of PHP 1,500), send us an email at thesugarfreebakery@gmail.com to receive our multiple address form.</span></p>
+<p class="p1"><span><b>Special Delivery Requests</b></span></p>
+<p class="p1">For special delivery requests outside of our regular delivery schedule for sugar-free cakes (Sunday-Saturday, 1:00 PM - 5:00 PM) kindly contact our Customer Care Team at  <a href="tel:+63-949-786-5399" data-mce-href="tel:+63-949-786-5399"><span class="s1">0949 786 5399</span></a> or<span> </span><meta charset="utf-8"><span data-mce-fragment="1">thesugarfreebakery@gmail.com to arrange your shipping requests.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keto</s:tag>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6675701530704</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6760520974416</id>
+    <published>2022-10-14T18:31:09+08:00</published>
+    <updated>2022-10-14T18:31:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/keto-confetti-cheesecake-8"/>
+    <title>Keto Confetti Cheesecake 8&quot;</title>
+    <s:type>Cake</s:type>
+    <s:vendor>The Sugar-Free Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/SFBFunfettiCakeWeb.jpg?v=1665738597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Sugar-Free Bakery<br>
+        <strong>Type: </strong>Cake<br>
+        <strong>Price: </strong>
+            1800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make birthday celebrations more colorful with our newest keto and sugar-free cake! Dig into this light and creamy Japanese cheesecake with cream cheese frosting with rainbow coconut <em>confetti.</em></p>
+<p><span><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">This cake is absolutely:</span></span></p>
+<ul>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Sugar-free</span></li>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Diabetic-friendly</span></li>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Keto</span></li>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Low Carb<br></span></li>
+</ul>
+<strong> <meta charset="utf-8"> </strong>
+<p style="text-align: left;" data-mce-style="text-align: left;"><strong>Keto Confetti Cheesecake 8"</strong><br data-mce-fragment="1">Php 1,800 good for 10 servings<br data-mce-fragment="1">Best consumed immediately</p>
+<p><strong data-mce-fragment="1"><i data-mce-fragment="1">**PLEASE NOTE THAT FULL PAYMENT IS REQUIRED BEFORE YOUR ORDER IS PROCESSED.**</i></strong><br><strong></strong></p>
+<p><strong>DELIVERY INFO</strong></p>
+<p><span>For sugar-free cakes, we will deliver your orders <meta charset="utf-8">straight to your doorstep from Sunday-Saturday between 1</span><span>PM-5</span><span>PM. Cut-off is every 5PM for Next-Day Delivery from Monday-Sunday.</span></p>
+<p><span>Please expect a message from our rider when your order is about to be delivered. </span></p>
+<p><b>Multiple Address Delivery &amp; Bulk Order</b><br></p>
+<p class="p1"><meta charset="utf-8"><span data-mce-fragment="1">For 2 or more delivery addresses (with a minimum spend of PHP 1,500), send us an email at thesugarfreebakery@gmail.com to receive our multiple address form.</span></p>
+<p class="p1"><span><b>Special Delivery Requests</b></span></p>
+<p class="p1">For special delivery requests outside of our regular delivery schedule for sugar-free cakes (Sunday-Saturday, 1:00 PM - 5:00 PM) kindly contact our Customer Care Team at  <a href="tel:+63-949-786-5399" data-mce-href="tel:+63-949-786-5399"><span class="s1">0949 786 5399</span></a> or<span> </span><meta charset="utf-8"><span data-mce-fragment="1">thesugarfreebakery@gmail.com to arrange your shipping requests.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keto</s:tag>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6760520974416</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6658201092176</id>
+    <published>2022-03-15T15:09:05+08:00</published>
+    <updated>2022-03-15T15:09:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/gourmet-croissant-gift-box"/>
+    <title>Gourmet Croissant Gift Box</title>
+    <s:type>Dessert</s:type>
+    <s:vendor>The Sugar-Free Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/CroissantWeb.jpg?v=1647317917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Sugar-Free Bakery<br>
+        <strong>Type: </strong>Dessert<br>
+        <strong>Price: </strong>
+            650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">We know you can’t get enough of our sugar-free croissants so we’re adding new flavorful twists to brighten up your summer!</span></p>
+<p><br></p>
+<p><span style="font-weight: 400;">Not flaking out on you are these flavors from our<strong> Sugar-Free Gourmet Croissant Gift Box:</strong></span></p>
+<ul>
+<li><span style="font-weight: 400;"><strong>Strawberries &amp; Cream Croissant</strong> with fresh strawberries and cream filling</span></li>
+<li><span style="font-weight: 400;"><strong>Matcha Pistachio Croissant</strong> with dark chocolate filling</span></li>
+<li><span style="font-weight: 400;"><strong>Almond Flan Croissant</strong> with sweet yet sugar-free almond custard filling</span></li>
+<li><span style="font-weight: 400;"><strong>Golden Hazelnut Croissant</strong> with chocolate hazelnut filling</span></li>
+</ul>
+<p> These croissants are absolutely:</p>
+<ul>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Sugar-free</span></li>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Diabetic-friendly</span></li>
+</ul>
+<strong> <meta charset="utf-8"> </strong>
+<p style="text-align: left;" data-mce-style="text-align: left;"><strong>Sugar-Free Gourmet Croissant Gift Box</strong></p>
+<ul>
+<li>
+<meta charset="utf-8">1 pc <meta charset="utf-8"> <span data-mce-fragment="1">Almond Flan Croissant </span>
+</li>
+<li>1 pc <meta charset="utf-8"> <span data-mce-fragment="1">Strawberries &amp; Cream Croissant</span>
+</li>
+<li>1 pc <meta charset="utf-8"> <span data-mce-fragment="1">Matcha Pistachio Croissant</span>
+</li>
+<li>1 pc <meta charset="utf-8"> <span data-mce-fragment="1">Golden Hazelnut Croissant </span>
+</li>
+</ul>
+<p style="text-align: left;" data-mce-style="text-align: left;">Php 650 for box of 4</p>
+<p style="text-align: left;" data-mce-style="text-align: left;">Best consumed immediately </p>
+<p><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>DELIVERY INFO:</strong></span></p>
+<p><span>We deliver goods on Sunday-Saturday evening straight to your doorstep between </span><span>6PM-9</span><span>PM. Cut-off is every 5PM for Next-Day Delivery from Monday-Sunday.</span></p>
+<p>Please expect a message from our rider when your order is about to be delivered. </p>
+<p class="p1"><span><b>Multiple Address Delivery &amp; Bulk Order</b></span><br><meta charset="utf-8"><span data-mce-fragment="1">For 2 or more delivery addresses (with a minimum spend of PHP 2,000), send us an email at thesugarfreebakery@gmail.com to receive our multiple address form.</span></p>
+<p class="p1"><span><b>Special Delivery Requests</b></span></p>
+<p class="p1">For special delivery requests outside of our regular delivery schedule (Sunday-Saturday, 6:00 PM - 9:00 PM), additional fees may apply. Kindly send your inquiries at<span> </span>0917 705 5876<span> </span>or<span> </span><meta charset="utf-8"><span data-mce-fragment="1">thesugarfreebakery@gmail.com.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6658201092176</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">650.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6591619432528</id>
+    <published>2022-01-30T15:07:50+08:00</published>
+    <updated>2022-01-30T15:07:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/keto-blueberry-cheesecake-8"/>
+    <title>Keto Blueberry Cheesecake 8&quot;</title>
+    <s:type>Dessert</s:type>
+    <s:vendor>The Sugar-Free Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/BlueberryCakeSFB.jpg?v=1664083945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Sugar-Free Bakery<br>
+        <strong>Type: </strong>Dessert<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;">Berry-licious! Our 8” Keto Blueberry Cheesecake is not only mouthwatering, it’s also sugar-free, low carb, and diabetic-friendly! Indeed, the perfect thoughtful gift or grandiose treat for your family and friends. Rich and creamy but definitely not eggy, cold and lumpy. Same light and refreshing flavor, only better! Perfect as a celebratory cake or snack.<br><b></b></p>
+<p data-mce-fragment="1"><span style="text-decoration: underline;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">This cake is absolutely:</span></span></p>
+<ul>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Sugar-free</span></li>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Low-carb </span></li>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Diabetic-friendly</span></li>
+</ul>
+<p><strong data-mce-fragment="1">Keto Blueberry Cheesecake 8" Cake</strong><br data-mce-fragment="1">Php 1,500 good for 10 servings<br data-mce-fragment="1">Best consumed immediately</p>
+<p><strong data-mce-fragment="1"><i data-mce-fragment="1">**PLEASE NOTE THAT FULL PAYMENT IS REQUIRED BEFORE YOUR ORDER IS PROCESSED.**</i></strong><br><strong></strong></p>
+<p><strong>DELIVERY INFO</strong></p>
+<p><span>For sugar-free cakes, we will deliver your orders <meta charset="utf-8">straight to your doorstep from Sunday-Saturday between 1</span><span>PM-5</span><span>PM. Cut-off is every 5PM for Next-Day Delivery from Monday-Sunday.</span></p>
+<p><span>Please expect a message from our rider when your order is about to be delivered. </span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" cellpadding="0" dir="ltr" border="1">
+<colgroup> <col width="100"> <col width="100"> </colgroup>
+<tbody>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Shelf Life"}'>Shelf Life</td>
+<td data-sheets-value='{"1":2,"2":"7 days, refrigerated."}'>7 days, refrigerated.</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Storage Instructions"}'>Storage Instructions</td>
+<td data-sheets-value='{"1":2,"2":"Store in airtight container, refrigerated."}'>
+<div>
+<div>Store in airtight container, refrigerated.</div>
+</div>
+</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Serving Instructions"}'>Serving Instructions</td>
+<td data-sheets-value='{"1":2,"2":"Serve chilled."}'>Serve chilled.</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><b>Multiple Address Delivery &amp; Bulk Order</b><br></p>
+<p class="p1"><meta charset="utf-8"><span data-mce-fragment="1">For 2 or more delivery addresses (with a minimum spend of PHP 1,500), send us an email at thesugarfreebakery@gmail.com to receive our multiple address form.</span></p>
+<p class="p1"><span><b>Special Delivery Requests</b></span></p>
+<p class="p1">For special delivery requests outside of our regular delivery schedule for sugar-free cakes (Sunday-Saturday, 1:00 PM - 5:00 PM) kindly contact our Customer Care Team at  <a href="tel:+63-949-786-5399" data-mce-href="tel:+63-949-786-5399"><span class="s1">0949 786 5399</span></a> or<span> </span><meta charset="utf-8"><span data-mce-fragment="1">thesugarfreebakery@gmail.com to arrange your shipping requests.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cakesph</s:tag>
+    <s:tag>Dessert</s:tag>
+    <s:tag>keto ph</s:tag>
+    <s:tag>ketogenic ph</s:tag>
+    <s:tag>products</s:tag>
+    <s:tag>SFB</s:tag>
+    <s:tag>Sugar-Free</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6591619432528</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6638030585936</id>
+    <published>2022-01-15T08:36:46+08:00</published>
+    <updated>2022-01-15T08:36:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/ube-tres-leches-cake-8"/>
+    <title>Ube Tres Leches Cake 8&quot;</title>
+    <s:type>Dessert</s:type>
+    <s:vendor>The Sugar-Free Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/TresLechesCakeweb1.jpg?v=1642206827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Sugar-Free Bakery<br>
+        <strong>Type: </strong>Dessert<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Indulge in this decadent cake made with ube sponge cake soaked in 3 kinds of milk, covered in velvety ube buttercream, and topped with the perfect blend of ube &amp; milk icing.</span></p>
+<p><span><span style="font-weight: 400;" data-mce-fragment="1">This cake is absolutely:</span></span></p>
+<ul>
+<li><span style="font-weight: 400;" data-mce-fragment="1">Sugar-free</span></li>
+<li><span style="font-weight: 400;" data-mce-fragment="1">Diabetic-friendly</span></li>
+</ul>
+<strong> <meta charset="utf-8"> </strong>
+<p style="text-align: left;"><strong>Sugar-Free Ube Tres Leches Cake 8"</strong><br data-mce-fragment="1">Php 1,500 good for 10 servings<br data-mce-fragment="1">Best consumed immediately</p>
+<p><strong data-mce-fragment="1"><i data-mce-fragment="1">**PLEASE NOTE THAT FULL PAYMENT IS REQUIRED BEFORE YOUR ORDER IS PROCESSED.**</i></strong><br><strong></strong></p>
+<p><strong>DELIVERY INFO</strong></p>
+<p><span>For sugar-free cakes, we will deliver your orders <meta charset="utf-8">straight to your doorstep from Sunday-Saturday between 1</span><span>PM-5</span><span>PM. Cut-off is every 5PM for Next-Day Delivery from Monday-Sunday.</span></p>
+<p><span>Please expect a message from our rider when your order is about to be delivered. </span></p>
+<p><b>Multiple Address Delivery &amp; Bulk Order</b><br></p>
+<p class="p1"><meta charset="utf-8"><span data-mce-fragment="1">For 2 or more delivery addresses (with a minimum spend of PHP 1,500), send us an email at thesugarfreebakery@gmail.com to receive our multiple address form.</span></p>
+<p class="p1"><span><b>Special Delivery Requests</b></span></p>
+<p class="p1">For special delivery requests outside of our regular delivery schedule for sugar-free cakes (Sunday-Saturday, 1:00 PM - 5:00 PM) kindly contact our Customer Care Team at  <a href="tel:+63-949-786-5399" data-mce-href="tel:+63-949-786-5399"><span class="s1">0949 786 5399</span></a> or<span> </span><meta charset="utf-8"><span data-mce-fragment="1">thesugarfreebakery@gmail.com to arrange your shipping requests.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6638030585936</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6603401068624</id>
+    <published>2021-09-10T14:45:29+08:00</published>
+    <updated>2021-09-10T14:45:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/keto-sansrival-cake"/>
+    <title>Keto Sansrival Cake 8&quot;</title>
+    <s:type>Dessert</s:type>
+    <s:vendor>The Sugar-Free Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/SansrivalCake.jpg?v=1664084904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Sugar-Free Bakery<br>
+        <strong>Type: </strong>Dessert<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;"><span style="font-weight: 400;">A Filipino classic with a twist, introducing our Keto Sansrival Cake! Take a bite of these layers filled with crispy, chewy, meringue layered with French buttercream.</span></p>
+<p data-mce-fragment="1"><span style="text-decoration: underline;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">This cake is absolutely:</span></span></p>
+<ul>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Sugar-free</span></li>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Keto-friendly</span></li>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Diabetic-friendly</span></li>
+</ul>
+<meta charset="utf-8">
+<p><strong data-mce-fragment="1">Keto Sansrival Cake 8" Cake</strong><br data-mce-fragment="1">Php 1,500 good for 6-8 servings<br data-mce-fragment="1">Best consumed immediately</p>
+<p><strong data-mce-fragment="1"><i data-mce-fragment="1">**PLEASE NOTE THAT FULL PAYMENT IS REQUIRED BEFORE YOUR ORDER IS PROCESSED.**</i></strong><br><strong></strong></p>
+<p><strong>DELIVERY INFO</strong></p>
+<p><span>For sugar-free cakes, we will deliver your orders <meta charset="utf-8">straight to your doorstep from Sunday-Saturday between 1</span><span>PM-5</span><span>PM. Cut-off is every 5PM for Next-Day Delivery from Monday-Sunday.</span></p>
+<p><span>Please expect a message from our rider when your order is about to be delivered. </span></p>
+<p><b>Multiple Address Delivery &amp; Bulk Order</b><br></p>
+<p class="p1"><meta charset="utf-8"><span data-mce-fragment="1">For 2 or more delivery addresses (with a minimum spend of PHP 1,500), send us an email at thesugarfreebakery@gmail.com to receive our multiple address form.</span></p>
+<p class="p1"><span><b>Special Delivery Requests</b></span></p>
+<p class="p1">For special delivery requests outside of our regular delivery schedule for sugar-free cakes (Sunday-Saturday, 1:00 PM - 5:00 PM) kindly contact our Customer Care Team at  <a href="tel:+63-949-786-5399" data-mce-href="tel:+63-949-786-5399"><span class="s1">0949 786 5399</span></a> or<span> </span><meta charset="utf-8"><span data-mce-fragment="1">thesugarfreebakery@gmail.com to arrange your shipping requests.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cakesph</s:tag>
+    <s:tag>Dessert</s:tag>
+    <s:tag>keto ph</s:tag>
+    <s:tag>ketogenic ph</s:tag>
+    <s:tag>products</s:tag>
+    <s:tag>SFB</s:tag>
+    <s:tag>Sugar-Free</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6603401068624</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6591619989584</id>
+    <published>2021-08-09T17:45:48+08:00</published>
+    <updated>2021-08-09T17:45:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/sugar-free-napoleones"/>
+    <title>Sugar-Free Napoleones</title>
+    <s:type>Dessert</s:type>
+    <s:vendor>The Sugar-Free Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/NapoleonesSFB.jpg?v=1664084483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Sugar-Free Bakery<br>
+        <strong>Type: </strong>Dessert<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;"><span style="text-decoration: underline;">Sugar-Free Napoleones</span><br></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">If you ever miss munching on Bacolod City’s popular Napoleones, then we’ve got you covered! We’ve gladly turned the famous pastry into a sugar-free and diabetic-friendly treat you’ll surely can’t get enough of. Made of thin layers of golden flaky puff pastry, filled and glazed with custard cream, this Sugar-free Napoleones makes the perfect afternoon treat after a peaceful siesta. It’s a traditional local delicacy, only better!</span></p>
+<p data-mce-fragment="1">Box of 6 Napoleones</p>
+<p><strong><em>**Best consumed immediately**</em></strong></p>
+<p><strong>DELIVERY INFO:</strong></p>
+<p><span>We deliver goods on Sunday-Saturday evening straight to your doorstep between </span><span>6PM-9</span><span>PM. Cut-off is every 5PM for Next-Day Delivery from Monday-Sunday.</span></p>
+<p>Please expect a message from our rider when your order is about to be delivered. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cakesph</s:tag>
+    <s:tag>Dessert</s:tag>
+    <s:tag>keto ph</s:tag>
+    <s:tag>ketogenic ph</s:tag>
+    <s:tag>products</s:tag>
+    <s:tag>SFB</s:tag>
+    <s:tag>Sugar-Free</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6591619989584</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6591619661904</id>
+    <published>2021-08-09T17:45:47+08:00</published>
+    <updated>2021-08-09T17:45:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/himalayan-dark-choco-cake-8"/>
+    <title>Himalayan Dark Choco Cake 8&quot;</title>
+    <s:type>Cake</s:type>
+    <s:vendor>The Sugar-Free Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/HimalayanCake.jpg?v=1664084267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Sugar-Free Bakery<br>
+        <strong>Type: </strong>Cake<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;">It’s dark, sugar-free, chocolate-y, diabetic-friendly, but also salt-errific! For the love of salty sweets, our Sugar-free Himalayan Dark Chocolate Cake was created for a rich, divine taste you’ll surely love. Pink Himalayan Salt and dark chocolate not only make a great flavor combination, but also drool-worthy visuals. It’s your favorite dark chocolate cake, only better!<br><b></b></p>
+<p data-mce-fragment="1"><span style="text-decoration: underline;"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">This cake is absolutely:</span></span></p>
+<ul>
+<li><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Sugar-free</span></li>
+<li><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Diabetic-friendly</span></li>
+</ul>
+<p><strong data-mce-fragment="1">Himalayan Dark Chocolate Cake 8" Cake</strong><br data-mce-fragment="1">Php 1,500 good for 10 servings<br data-mce-fragment="1">Best consumed immediately</p>
+<p><br><strong></strong></p>
+<p><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>DELIVERY INFO:</strong></span></p>
+<p><span>We deliver goods on Sunday-Saturday evening straight to your doorstep between </span><span>6PM-9</span><span>PM. Cut-off is every 5PM for Next-Day Delivery from Monday-Sunday.</span></p>
+<p>Please expect a message from our rider when your order is about to be delivered. </p>
+<p class="p1"><span><b>Multiple Address Delivery &amp; Bulk Order</b></span><br><meta charset="utf-8"><span data-mce-fragment="1">For 2 or more delivery addresses (with a minimum spend of PHP 2,000), send us an email at thesugarfreebakery@gmail.com to receive our multiple address form.</span></p>
+<p class="p1"><span><b>Special Delivery Requests</b></span></p>
+<p class="p1">For special delivery requests outside of our regular delivery schedule (Sunday-Saturday, 6:00 PM - 9:00 PM), additional fees may apply. Kindly send your inquiries at<span> </span>0917 705 5876<span> </span>or<span> </span><meta charset="utf-8"><span data-mce-fragment="1">thesugarfreebakery@gmail.com.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cakesph</s:tag>
+    <s:tag>Dessert</s:tag>
+    <s:tag>keto ph</s:tag>
+    <s:tag>ketogenic ph</s:tag>
+    <s:tag>products</s:tag>
+    <s:tag>SFB</s:tag>
+    <s:tag>Sugar-Free</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6591619661904</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/4756340408400</id>
+    <published>2021-08-08T11:00:06+08:00</published>
+    <updated>2021-08-08T11:00:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/the-sugar-free-pastry-care-box"/>
+    <title>Pastry Care Box</title>
+    <s:type>Dessert</s:type>
+    <s:vendor>The Sugar-Free Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/PastryBoxSFB.jpg?v=1664084536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Sugar-Free Bakery<br>
+        <strong>Type: </strong>Dessert<br>
+        <strong>Price: </strong>
+            300.00 - 400.00
+            <a href="https://thesugarfreebakery.com/products/the-sugar-free-pastry-care-box">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When virtual connections aren't enough, send your loved ones the Sugar-Free Pastry Care Box to share.</p>
+<p>Each box is handcrafted to include your highly-requested and well-loved pastries that we’ve made sugar-free! We at The Sugar-Free Bakery have lovingly crafted these incredibly light, flaky and soft pastries all wrapped in a care package that you can send to your loved ones for them to savour and enjoy.<br><br>Get one to treat yourself and send one to your colleagues and loved ones to let them know that you love and miss them!<br><br>Nothing’s sweeter than the gift of sugar-free!<br><br><strong>Sugar-Free Pastry Care Box</strong><br></p>
+<ul>
+<li>1 Sugar-Free Herbed Croissant</li>
+<li>1 Sugar-Free Pain Au Chocolat</li>
+<li>1 Sugar-Free Mango Custard Danish</li>
+<li>1 Sugar-Free Blueberry Pinwheel Danish</li>
+<li>1 Sugar-Free Almond Croissant </li>
+</ul>
+<p><strong>Php 400 for a box of 5 assorted croissants </strong></p>
+<p><span style="font-weight: 400;">Or enjoy your sugar-free, incredibly light, flaky, and soft pastry of choice in a care package of 5, which you can easily send to your loved ones. Prices vary per flavor.</span></p>
+<p><strong>DELIVERY INFO:</strong></p>
+<p><span>We deliver goods on Sunday-Saturday evening straight to your doorstep between </span><span>6PM-9</span><span>PM. Cut-off is every 5PM for Next-Day Delivery from Monday-Sunday.</span></p>
+<p>Please expect a message from our rider when your order is about to be delivered.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>blueberry</s:tag>
+    <s:tag>care box</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>croissant</s:tag>
+    <s:tag>danish</s:tag>
+    <s:tag>Dessert</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Holiday Gifting</s:tag>
+    <s:tag>mango</s:tag>
+    <s:tag>pastry</s:tag>
+    <s:tag>products</s:tag>
+    <s:tag>Sugar free</s:tag>
+    <s:tag>Sugar Free Bakery</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/4756340408400</id>
+      <title>ASSORTED</title>
+      <s:price currency="PHP">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/4756340408400</id>
+      <title>HERBED CROISSANT</title>
+      <s:price currency="PHP">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/4756340408400</id>
+      <title>PAIN AU CHOCOLAT</title>
+      <s:price currency="PHP">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/4756340408400</id>
+      <title>MANGO CUSTARD DANISH</title>
+      <s:price currency="PHP">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/4756340408400</id>
+      <title>BLUEBERRY PINWHEEL DANISH</title>
+      <s:price currency="PHP">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/4756340408400</id>
+      <title>ALMOND CROISSANT</title>
+      <s:price currency="PHP">375.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thesugarfreebakery.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thesugarfreebakery.com/collections/roasted-family-feasts.atom"/>
+  <title>The Sugar-Free Bakery</title>
+  <updated>2022-12-22T12:53:28+08:00</updated>
+  <author>
+    <name>The Sugar-Free Bakery</name>
+  </author>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6613162262608</id>
+    <published>2022-12-22T12:53:28+08:00</published>
+    <updated>2022-12-22T12:53:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/spanish-pairing"/>
+    <title>Spanish Pairing</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/ROASTED4.jpg?v=1643774277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3400.00 - 4650.00
+            <a href="https://thesugarfreebakery.com/products/spanish-pairing">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p><b>Pairing Includes:<span class="Apple-converted-space"> </span></b></p>
+<p><b>1 tray of <span data-mce-fragment="1">Chimichurri Crackling Pork Belly</span></b></p>
+<p><b>1 tray of <span data-mce-fragment="1">Wild Mushrooms and Lemon Cream Pasta</span></b></p>
+<p><b>1 big container of <span data-mce-fragment="1">Roasted Butternut Squash Soup</span></b></p>
+<p><b><span class="Apple-converted-space">PLUS FREE 8" Sugar-Free Cake* of your choice and delivery!<br></span></b></p>
+<p>Party trays to choose from: <strong><br></strong>Good for 6-8 pax or 10-12 pax</p>
+<p><meta charset="utf-8"><strong>DELIVERY INFO</strong><br><br><span>We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.</span><br><br><span>For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.</span><br><br><span>Please expect a message from our rider when your order is about to be delivered.</span><br><br><strong>TERMS &amp; CONDITIONS</strong><br><span>1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com</span><br><br><span>2. Strictly no refunds and cancellations.</span><br><br><span>3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162262608</id>
+      <title>Small Tray (6-8 pax) / Sugar-Free Himalayan Dark Chocolate Cake</title>
+      <s:price currency="PHP">3400.00</s:price>
+      <s:sku>PAIRC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162262608</id>
+      <title>Small Tray (6-8 pax) / Sugar-Free Ube Tres Leches Cake</title>
+      <s:price currency="PHP">3400.00</s:price>
+      <s:sku>PAIRC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162262608</id>
+      <title>Small Tray (6-8 pax) / Keto Sansrival Cake</title>
+      <s:price currency="PHP">3400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162262608</id>
+      <title>Small Tray (6-8 pax) / Keto Blueberry Cheesecake</title>
+      <s:price currency="PHP">3400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162262608</id>
+      <title>Big Tray (10-12 pax) / Sugar-Free Himalayan Dark Chocolate Cake</title>
+      <s:price currency="PHP">4650.00</s:price>
+      <s:sku>PAIRC2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162262608</id>
+      <title>Big Tray (10-12 pax) / Sugar-Free Ube Tres Leches Cake</title>
+      <s:price currency="PHP">4650.00</s:price>
+      <s:sku>PAIRC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162262608</id>
+      <title>Big Tray (10-12 pax) / Keto Sansrival Cake</title>
+      <s:price currency="PHP">4650.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162262608</id>
+      <title>Big Tray (10-12 pax) / Keto Blueberry Cheesecake</title>
+      <s:price currency="PHP">4650.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6747799388240</id>
+    <published>2022-12-21T18:36:20+08:00</published>
+    <updated>2022-12-21T18:36:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/gyudon-with-crunchy-spinach-chips"/>
+    <title>Gyudon with Crunchy Spinach Chips</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/CrispyGyudonTrayweb.jpg?v=1663847257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1750.00 - 2200.00
+            <a href="https://thesugarfreebakery.com/products/gyudon-with-crunchy-spinach-chips">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One of our favorite comfort food, introducing our Gyudon with Crunchy Spinach Chips! Sweet and savory thinly sliced beef, gently poached eggs, then topped with fresh scallions, sesame seeds, and tōgarashi spice. All served on a bed of fluffy umami rice. <br><meta charset="UTF-8"></p>
+<p>Party trays to choose from: <strong><br></strong>Good for 6-8 pax or 10-12 pax</p>
+<p> </p>
+<p><strong>DELIVERY INFO</strong><br><br>We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.<br><br>For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.<br><br>Please expect a message from our rider when your order is about to be delivered.<br><br><strong>TERMS &amp; CONDITIONS</strong><br>1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com<br><br>2. Strictly no refunds and cancellations.<br><br>3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6747799388240</id>
+      <title>Small Tray ( 6-8 pax)</title>
+      <s:price currency="PHP">1750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6747799388240</id>
+      <title>Big Tray (10-12 pax)</title>
+      <s:price currency="PHP">2200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6783078203472</id>
+    <published>2022-12-21T18:36:19+08:00</published>
+    <updated>2022-12-21T18:36:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/spicy-korean-salad"/>
+    <title>Spicy Korean Salad</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/SpicyKoreanSalad.jpg?v=1671596756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1500.00 - 2300.00
+            <a href="https://thesugarfreebakery.com/products/spicy-korean-salad">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>A hearty high protein meat salad for those days you want a more substantial salad. It's refreshing light, perfectly sweet &amp; spicy, tangy, and outrageously flavorful.</span><br><br><span>Enjoy this salad on its own or as a meal compliment to almost any dish but we recommend you try it with Korean Hungover Soup. This refreshing salad is made of tender roasted beef, fresh lettuce, carrots, cucumber, french beans, honey, and gochujang for the perfect blend of sweet, spicy, and tangy.</span></p>
+<p><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;">Party trays to choose from: </span></p>
+<p>Good for 6-8 pax or 10-12 pax</p>
+<p><strong><br>DELIVERY INFO<br data-mce-fragment="1"><br data-mce-fragment="1"></strong>We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.<br data-mce-fragment="1"><br data-mce-fragment="1">For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.<br data-mce-fragment="1"><br data-mce-fragment="1">Please expect a message from our rider when your order is about to be delivered.<strong><br data-mce-fragment="1"><br data-mce-fragment="1">TERMS &amp; CONDITIONS<br data-mce-fragment="1"></strong>1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com<br data-mce-fragment="1"><br data-mce-fragment="1">2. Strictly no refunds and cancellations.<br data-mce-fragment="1"><br data-mce-fragment="1">3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.<strong><br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6783078203472</id>
+      <title>Small Tray (6-8pax)</title>
+      <s:price currency="PHP">1500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6783078203472</id>
+      <title>Big Tray (10-12 pax)</title>
+      <s:price currency="PHP">2300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6783018565712</id>
+    <published>2022-12-21T18:36:19+08:00</published>
+    <updated>2022-12-21T18:36:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/roasted-chicken-pesto-pasta-salad"/>
+    <title>Roasted Chicken Pesto Pasta Salad</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/RoastedChickenPestoPastaSalad.jpg?v=1671591097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1100.00 - 1300.00
+            <a href="https://thesugarfreebakery.com/products/roasted-chicken-pesto-pasta-salad">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;">Fresh salad greens with chopped roasted chicken tossed in our homemade pesto dressing with a festival of fusilli, french beans, corn, basil, and cherry tomatoes. Topped with grated cheese. </span></p>
+<p><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;">Party trays to choose from: </span></p>
+<p> </p>
+<p>Good for 6-8 pax or 10-12 pax</p>
+<p><strong><br>DELIVERY INFO<br data-mce-fragment="1"><br data-mce-fragment="1"></strong>We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.<br data-mce-fragment="1"><br data-mce-fragment="1">For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.<br data-mce-fragment="1"><br data-mce-fragment="1">Please expect a message from our rider when your order is about to be delivered.<strong><br data-mce-fragment="1"><br data-mce-fragment="1">TERMS &amp; CONDITIONS<br data-mce-fragment="1"></strong>1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com<br data-mce-fragment="1"><br data-mce-fragment="1">2. Strictly no refunds and cancellations.<br data-mce-fragment="1"><br data-mce-fragment="1">3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.<strong><br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6783018565712</id>
+      <title>Small Tray (6-8pax)</title>
+      <s:price currency="PHP">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6783018565712</id>
+      <title>Big Tray (10-12 pax)</title>
+      <s:price currency="PHP">1300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6742606544976</id>
+    <published>2022-12-21T18:36:19+08:00</published>
+    <updated>2022-12-21T18:36:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/thai-chicken-pandan-with-rice"/>
+    <title>Thai Chicken Pandan with Anchovy Rice</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/PANDAN.jpg?v=1663037066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1100.00 - 1300.00
+            <a href="https://thesugarfreebakery.com/products/thai-chicken-pandan-with-rice">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">Thai Chicken wrapped in pandan leaves. Served with anchovy rice<br></span>
+<p><br></p>
+<p><strong></strong><strong></strong>Party trays to choose from: <strong><br></strong>Good for 6-8 pax or 10-12 pax</p>
+<p><strong><br><meta charset="UTF-8"></strong></p>
+<p><strong>DELIVERY INFO:</strong></p>
+<p><span>We deliver goods from Monday - Sunday evening straight to your doorstep between </span><span>6PM -9</span><span>PM. For morning deliveries, kindly contact us. Cut-off is every 6PM on the day before delivery date.</span><br></p>
+<p><span>Please expect a message from our rider when your order is about to be delivered.<br><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6742606544976</id>
+      <title>Small Tray (6-8 pax)</title>
+      <s:price currency="PHP">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6742606544976</id>
+      <title>Big Tray (10 -12 pax)</title>
+      <s:price currency="PHP">1300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6682410156112</id>
+    <published>2022-12-21T18:36:19+08:00</published>
+    <updated>2022-12-21T18:36:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/creamy-tuscan-chicken-pasta"/>
+    <title>Creamy Tuscan Chicken Pasta</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/tuscanpasta.jpg?v=1651655423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2800.00 - 3200.00
+            <a href="https://thesugarfreebakery.com/products/creamy-tuscan-chicken-pasta">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1"></span>Perfectly pan-seared chicken, resting on a bed of al dente penne pasta made coated with creamy mozzarella and parmesan.  </p>
+<p>Party trays to choose from: <strong><br></strong>Good for 6-8 pax or 10-12 pax</p>
+<p> </p>
+<p><strong>DELIVERY INFO</strong><br><br>We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.<br><br>For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.<br><br>Please expect a message from our rider when your order is about to be delivered.<br><br><strong>TERMS &amp; CONDITIONS</strong><br>1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com<br><br>2. Strictly no refunds and cancellations.<br><br>3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6682410156112</id>
+      <title>Small Tray ( 6-8 pax)</title>
+      <s:price currency="PHP">2800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6682410156112</id>
+      <title>Big Tray (10-12 pax)</title>
+      <s:price currency="PHP">3200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6613188051024</id>
+    <published>2022-12-21T18:36:19+08:00</published>
+    <updated>2022-12-21T18:36:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/wild-mushrooms-and-lemon-cream-pasta"/>
+    <title>Wild Mushrooms and Lemon Cream Pasta</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/lemonpasta.jpg?v=1651673451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1000.00 - 1500.00
+            <a href="https://thesugarfreebakery.com/products/wild-mushrooms-and-lemon-cream-pasta">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">Freshly prepared pasta with sauteed 3 kinds of mushrooms rich in umami, tossed in refreshing zesty lemon cream sauce <br><br><meta charset="UTF-8"></span>
+<p><strong><br></strong></p>
+<p>Party trays to choose from: <strong><br></strong>Good for 6-8 pax or 10-12 pax</p>
+<p><strong><br><br>DELIVERY INFO</strong><br data-mce-fragment="1"><br data-mce-fragment="1">We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.<br data-mce-fragment="1"><br data-mce-fragment="1">For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.<br data-mce-fragment="1"><br data-mce-fragment="1">Please expect a message from our rider when your order is about to be delivered.<br data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>TERMS &amp; CONDITIONS</strong><br data-mce-fragment="1">1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com<br data-mce-fragment="1"><br data-mce-fragment="1">2. Strictly no refunds and cancellations.<br data-mce-fragment="1"><br data-mce-fragment="1">3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.<strong><br data-mce-fragment="1"><br></strong></p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613188051024</id>
+      <title>Small Tray (6-8 pax)</title>
+      <s:price currency="PHP">1000.00</s:price>
+      <s:sku>CREAMPASTA-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613188051024</id>
+      <title>Big Tray (10-12 pax)</title>
+      <s:price currency="PHP">1500.00</s:price>
+      <s:sku>CREAMPASTA-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6613188018256</id>
+    <published>2022-12-21T18:36:19+08:00</published>
+    <updated>2022-12-21T18:36:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/vegeterian-seaweed-and-mushroom-pasta"/>
+    <title>Vegetarian Seaweed Pesto Pasta</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/pestopasta.jpg?v=1651673412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            830.00 - 1245.00
+            <a href="https://thesugarfreebakery.com/products/vegeterian-seaweed-and-mushroom-pasta">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Simple and bursting with flavors. Olive oil, nori, and fresh mushrooms</span></p>
+<p>Party trays to choose from: <strong><br></strong>Good for 6-8 pax or 10-12 pax</p>
+<p><strong>DELIVERY INFO</strong><br data-mce-fragment="1"><br data-mce-fragment="1">We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.<br data-mce-fragment="1"><br data-mce-fragment="1">For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.<br data-mce-fragment="1"><br data-mce-fragment="1">Please expect a message from our rider when your order is about to be delivered.<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>TERMS &amp; CONDITIONS</strong><br data-mce-fragment="1">1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com<br data-mce-fragment="1"><br data-mce-fragment="1">2. Strictly no refunds and cancellations.<br data-mce-fragment="1"><br data-mce-fragment="1">3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.<strong><br data-mce-fragment="1"><br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613188018256</id>
+      <title>Small Tray (6-8 pax)</title>
+      <s:price currency="PHP">830.00</s:price>
+      <s:sku>PP2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613188018256</id>
+      <title>Big Tray (10-12 pax)</title>
+      <s:price currency="PHP">1245.00</s:price>
+      <s:sku>PP3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6613162360912</id>
+    <published>2022-12-21T18:36:19+08:00</published>
+    <updated>2022-12-21T18:36:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/asian-pairing"/>
+    <title>Asian Pairing</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/ROASTEDPAIRINGD_2000x-2copy.jpg?v=1641269274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4000.00 - 5000.00
+            <a href="https://thesugarfreebakery.com/products/asian-pairing">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Pairing Includes: </b></p>
+<p><b>1 tray of <span data-mce-fragment="1">Fresh Prawns with Chili-Ginger-Garlic Butter Sauce</span></b></p>
+<p><b>1 tray of <span data-mce-fragment="1">Thai Chicken Pandan with anchovy rice</span></b></p>
+<p><b>1 tray <span data-mce-fragment="1" mce-data-marked="1">of Nasi Goreng</span></b></p>
+<p><b></b><b><br> <i>8" Sugar-Free Cake and Delivery comes for </i>FREE!<span class="Apple-converted-space"> <br></span></b></p>
+<p> </p>
+<p>Party trays to choose from: <strong><br></strong>Good for 6-8 pax or 10-12 pax</p>
+<p><meta charset="utf-8"><strong>DELIVERY INFO</strong><br><br><span>We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.</span><br><br><span>For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.</span><br><br><span>Please expect a message from our rider when your order is about to be delivered.</span><br><br><strong>TERMS &amp; CONDITIONS</strong><br><span>1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com</span><br><br><span>2. Strictly no refunds and cancellations.</span><br><br><span>3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162360912</id>
+      <title>Small Tray (6-8 pax) / Sugar-Free Himalayan Dark Chocolate Cake</title>
+      <s:price currency="PHP">4000.00</s:price>
+      <s:sku>PAIRF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162360912</id>
+      <title>Small Tray (6-8 pax) / Sugar-Free Tres Leches Cake</title>
+      <s:price currency="PHP">4000.00</s:price>
+      <s:sku>PAIRF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162360912</id>
+      <title>Small Tray (6-8 pax) / Keto Blueberry Cheesecake</title>
+      <s:price currency="PHP">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162360912</id>
+      <title>Small Tray (6-8 pax) / Keto Sansrival Cake</title>
+      <s:price currency="PHP">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162360912</id>
+      <title>Big Tray (10-12 pax) / Sugar-Free Himalayan Dark Chocolate Cake</title>
+      <s:price currency="PHP">5000.00</s:price>
+      <s:sku>PAIRF2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162360912</id>
+      <title>Big Tray (10-12 pax) / Sugar-Free Tres Leches Cake</title>
+      <s:price currency="PHP">5000.00</s:price>
+      <s:sku>PAIRF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162360912</id>
+      <title>Big Tray (10-12 pax) / Keto Blueberry Cheesecake</title>
+      <s:price currency="PHP">5000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162360912</id>
+      <title>Big Tray (10-12 pax) / Keto Sansrival Cake</title>
+      <s:price currency="PHP">5000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6613162295376</id>
+    <published>2022-12-21T18:36:19+08:00</published>
+    <updated>2022-12-21T18:36:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/italian-pairing"/>
+    <title>Italian Pairing</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/ROASTED2_0ca812aa-e832-4076-99ba-0123a208f5b6.jpg?v=1643774182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3000.00 - 4300.00
+            <a href="https://thesugarfreebakery.com/products/italian-pairing">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Pairing Includes:<span class="Apple-converted-space"> </span></b><br></p>
+<ul>
+<li><b>1 tray of Creamy <span data-mce-fragment="1">Chicken Marsala in Red Wine</span></b></li>
+<li><b>1 tray of <span data-mce-fragment="1">Vegetarian Seaweed Pesto Pasta</span></b></li>
+<li><b><i>PLUS FREE 8" Sugar-Free Cake* of your choice and delivery</i>!<span class="Apple-converted-space"> <br></span></b></li>
+</ul>
+<p>Choose between 6-8 pax or 10-12 pax. </p>
+<p><strong></strong><strong>*additional fees may apply depending on the chosen cake flavor</strong></p>
+<p> </p>
+<p><meta charset="utf-8"><strong>DELIVERY INFO</strong><br><br><span>We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.</span><br><br><span>For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.</span><br><br><span>Please expect a message from our rider when your order is about to be delivered.</span><br><br><strong>TERMS &amp; CONDITIONS</strong><br><span>1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com</span><br><br><span>2. Strictly no refunds and cancellations.</span><br><br><span>3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162295376</id>
+      <title>Small Tray (6-8 pax) / Sugar-Free Dark Himalayan Chocolate Cake</title>
+      <s:price currency="PHP">3000.00</s:price>
+      <s:sku>PAIRD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162295376</id>
+      <title>Small Tray (6-8 pax) / Sugar-Free Ube Tres Leches</title>
+      <s:price currency="PHP">3000.00</s:price>
+      <s:sku>PAIRD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162295376</id>
+      <title>Small Tray (6-8 pax) / Keto Sansrival Cake</title>
+      <s:price currency="PHP">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162295376</id>
+      <title>Small Tray (6-8 pax) / Keto Blueberry Cheesecake</title>
+      <s:price currency="PHP">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162295376</id>
+      <title>Big Tray (10-12 pax) / Sugar-Free Dark Himalayan Chocolate Cake</title>
+      <s:price currency="PHP">4300.00</s:price>
+      <s:sku>PAIRD2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162295376</id>
+      <title>Big Tray (10-12 pax) / Sugar-Free Ube Tres Leches</title>
+      <s:price currency="PHP">4300.00</s:price>
+      <s:sku>PAIRD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162295376</id>
+      <title>Big Tray (10-12 pax) / Keto Sansrival Cake</title>
+      <s:price currency="PHP">4300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162295376</id>
+      <title>Big Tray (10-12 pax) / Keto Blueberry Cheesecake</title>
+      <s:price currency="PHP">4300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6613162229840</id>
+    <published>2022-12-21T18:36:19+08:00</published>
+    <updated>2022-12-21T18:36:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/pescatarian-pairing"/>
+    <title>Pescatarian Pairing</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/ROASTED1_88f2cf2b-9a05-4ea1-a675-656d7e95ef05.jpg?v=1643774351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4300.00 - 5500.00
+            <a href="https://thesugarfreebakery.com/products/pescatarian-pairing">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><b data-mce-fragment="1">Pairing Includes:<span data-mce-fragment="1" class="Apple-converted-space"> </span></b><br></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">1 tray of <span data-mce-fragment="1">Pan Seared Salmon with Sun-dried Tomato and Spinach Cream Sauce</span></b><br><b data-mce-fragment="1"></b></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">1 tray of <span data-mce-fragment="1">Vegetarian Seaweed Pesto Pasta</span></b></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" class="Apple-converted-space">PLUS FREE 8" Sugar-Free Cake* of your choice and delivery!<br data-mce-fragment="1"><br data-mce-fragment="1"></span><span data-mce-fragment="1" class="Apple-converted-space">*additional fees may apply depending on the chosen cake flavor</span><b data-mce-fragment="1"><span data-mce-fragment="1" class="Apple-converted-space"><br></span></b></p>
+<p>Party trays to choose from: <strong><br></strong>Good for 6-8 pax or 10-12 pax</p>
+<p> </p>
+<p><strong>DELIVERY INFO</strong><br>We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.<br><br>For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.<br><br>Please expect a message from our rider when your order is about to be delivered.<br><br><strong>TERMS &amp; CONDITIONS</strong><br>1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com<br><br>2. Strictly no refunds and cancellations.<br><br>3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.<br><br></p>
+<p><span>Please expect a message from our rider when your order is about to be delivered.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162229840</id>
+      <title>Small Tray (6-8 pax) / HImalayan Dark Chocolate Cake</title>
+      <s:price currency="PHP">4300.00</s:price>
+      <s:sku>PAIRB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162229840</id>
+      <title>Small Tray (6-8 pax) / Ube Tres Leches Cake</title>
+      <s:price currency="PHP">4300.00</s:price>
+      <s:sku>PAIRB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162229840</id>
+      <title>Small Tray (6-8 pax) / Keto Blueberry Cheesecake</title>
+      <s:price currency="PHP">4300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162229840</id>
+      <title>Small Tray (6-8 pax) / Keto Sansrival Cake</title>
+      <s:price currency="PHP">4300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162229840</id>
+      <title>Big Tray (10-12 pax) / HImalayan Dark Chocolate Cake</title>
+      <s:price currency="PHP">5500.00</s:price>
+      <s:sku>PAIRB2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162229840</id>
+      <title>Big Tray (10-12 pax) / Ube Tres Leches Cake</title>
+      <s:price currency="PHP">5500.00</s:price>
+      <s:sku>PAIRB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162229840</id>
+      <title>Big Tray (10-12 pax) / Keto Blueberry Cheesecake</title>
+      <s:price currency="PHP">5500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162229840</id>
+      <title>Big Tray (10-12 pax) / Keto Sansrival Cake</title>
+      <s:price currency="PHP">5500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6613162197072</id>
+    <published>2022-12-21T18:36:19+08:00</published>
+    <updated>2022-12-21T18:36:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/european-pairing"/>
+    <title>European Pairing</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/ROASTED3.jpg?v=1643774489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3600.00 - 4800.00
+            <a href="https://thesugarfreebakery.com/products/european-pairing">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Pairing Includes: </b><br></p>
+<ul>
+<li><b>1 tray of Roast Beef with Whisky Peppercorn Sauce</b></li>
+<li><b>1 big container of Roasted Butternut Squash Soup</b></li>
+<li><b>1 tray of Honey Roasted Vegetables with Balsamic Sauce</b></li>
+</ul>
+<h4><b><br><span class="Apple-converted-space">PLUS FREE 8" Sugar-Free Cake* of your choice and delivery!<br data-mce-fragment="1"><br data-mce-fragment="1">*additional fees may apply depending on the chosen cake flavor<br data-mce-fragment="1"><br><meta charset="UTF-8"></span></b></h4>
+<p><strong></strong>Party trays to choose from: <strong><br></strong>Good for 6-8 pax or 10-12 pax</p>
+<p><strong>DELIVERY INFO</strong></p>
+<p>We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.</p>
+<p class="_04xlpA direction-ltr align-start para-style-title"><span class="JsGRdQ">For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM for Next-Day Delivery.</span></p>
+<p class="_04xlpA direction-ltr align-start para-style-title"><span class="JsGRdQ">Please expect a message from our rider when your order is about to be delivered.</span></p>
+<p class="_04xlpA direction-ltr align-start para-style-title"> </p>
+<p><strong>TERMS &amp; CONDITIONS</strong> </p>
+<p class="_04xlpA direction-ltr align-start para-style-title"><span class="JsGRdQ">1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com</span></p>
+<p class="_04xlpA direction-ltr align-start para-style-title"><span class="JsGRdQ">2. Strictly no refunds and cancellations.</span></p>
+<p class="_04xlpA direction-ltr align-start para-style-title"><span class="JsGRdQ">3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162197072</id>
+      <title>Small Tray (6-8 pax) / Sugar-Free Himalayan Dark Chocolate Cake</title>
+      <s:price currency="PHP">3600.00</s:price>
+      <s:sku>PAIRA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162197072</id>
+      <title>Small Tray (6-8 pax) / Sugar-Free Ube Tres Leches Cake</title>
+      <s:price currency="PHP">3600.00</s:price>
+      <s:sku>PAIRA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162197072</id>
+      <title>Small Tray (6-8 pax) / Keto Sansrival Cake</title>
+      <s:price currency="PHP">3600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162197072</id>
+      <title>Small Tray (6-8 pax) / Keto Blueberry Cheesecake</title>
+      <s:price currency="PHP">3600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162197072</id>
+      <title>Big Tray (10-12 pax) / Sugar-Free Himalayan Dark Chocolate Cake</title>
+      <s:price currency="PHP">4800.00</s:price>
+      <s:sku>PAIRA2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162197072</id>
+      <title>Big Tray (10-12 pax) / Sugar-Free Ube Tres Leches Cake</title>
+      <s:price currency="PHP">4800.00</s:price>
+      <s:sku>PAIRA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162197072</id>
+      <title>Big Tray (10-12 pax) / Keto Sansrival Cake</title>
+      <s:price currency="PHP">4800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162197072</id>
+      <title>Big Tray (10-12 pax) / Keto Blueberry Cheesecake</title>
+      <s:price currency="PHP">4800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6613162164304</id>
+    <published>2022-12-21T18:36:19+08:00</published>
+    <updated>2022-12-21T18:36:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/pan-seared-salmon-with-sundried-tomato-and-spinach-cream-sauce"/>
+    <title>Pan Seared Salmon with Sundried Tomato and Spinach Cream Sauce</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/Salmon.jpg?v=1651673509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3300.00 - 4700.00
+            <a href="https://thesugarfreebakery.com/products/pan-seared-salmon-with-sundried-tomato-and-spinach-cream-sauce">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">Pan seared Norwegian pink salmon with butter-basted crisp skin topped with creamy-chunky sundried tomato and fresh spinach sauce. <br><br><meta charset="UTF-8"></span>
+<p><strong></strong>Party trays to choose from: <strong><br></strong>Good for 6-8 pax or 10-12 pax</p>
+<p><strong><br><br>DELIVERY INFO</strong><br data-mce-fragment="1"><br data-mce-fragment="1">We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.<br data-mce-fragment="1"><br data-mce-fragment="1">For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.<br data-mce-fragment="1"><br data-mce-fragment="1">Please expect a message from our rider when your order is about to be delivered.<br data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>TERMS &amp; CONDITIONS</strong><br data-mce-fragment="1">1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com<br data-mce-fragment="1"><br data-mce-fragment="1">2. Strictly no refunds and cancellations.<br data-mce-fragment="1"><br data-mce-fragment="1">3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.<br data-mce-fragment="1"><strong><br></strong></p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162164304</id>
+      <title>Small Tray (6-8 pax)</title>
+      <s:price currency="PHP">3300.00</s:price>
+      <s:sku>SALMN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162164304</id>
+      <title>Big Tray (10-12 pax)</title>
+      <s:price currency="PHP">4700.00</s:price>
+      <s:sku>SALMN2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6613162131536</id>
+    <published>2022-12-21T18:36:19+08:00</published>
+    <updated>2022-12-21T18:36:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/roast-beef-with-whisky-peppercorn-sauce"/>
+    <title>Roast Beef with Whisky Peppercorn Sauce</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/Roastbeef_f8c98258-f78e-4c88-911d-bc21316e50ce.jpg?v=1651673362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2450.00 - 3300.00
+            <a href="https://thesugarfreebakery.com/products/roast-beef-with-whisky-peppercorn-sauce">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">Luscious oven-roasted prime beef with au jus, topped with creamy peppercorn sauce infused with sweet and smokey Scotch whisky. <br><br></span>
+<p>Party trays to choose from: <strong><br></strong>Good for 6-8 pax or 10-12 pax</p>
+<p><strong><br>DELIVERY INFO<br data-mce-fragment="1"></strong><br data-mce-fragment="1">We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.<br data-mce-fragment="1"><br data-mce-fragment="1">For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.<br data-mce-fragment="1"><br data-mce-fragment="1">Please expect a message from our rider when your order is about to be delivered.<br data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>TERMS &amp; CONDITIONS</strong><br data-mce-fragment="1">1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com<br data-mce-fragment="1"><br data-mce-fragment="1">2. Strictly no refunds and cancellations.<br data-mce-fragment="1"><br data-mce-fragment="1">3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.<strong><br data-mce-fragment="1"><br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162131536</id>
+      <title>Small Tray (6-8 pax)</title>
+      <s:price currency="PHP">2450.00</s:price>
+      <s:sku>RSTBEEF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162131536</id>
+      <title>Big Tray (10-12 pax)</title>
+      <s:price currency="PHP">3300.00</s:price>
+      <s:sku>RSTBEEF2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6613162098768</id>
+    <published>2022-12-21T18:36:19+08:00</published>
+    <updated>2022-12-21T18:36:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/classic-cesar-salad"/>
+    <title>Grilled Romaine Caesar Salad</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/cesarsalad.jpg?v=1634015804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            580.00 - 870.00
+            <a href="https://thesugarfreebakery.com/products/classic-cesar-salad">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Farm-fresh Romaine lettuce drizzled with home made classic Caesar dressing generously topped with crispy bacon and seasoned croutons</span></p>
+<p>Party trays to choose from: <strong><br></strong>Good for 6-8 pax or 10-12 pax</p>
+<p><strong>DELIVERY INFO</strong><br data-mce-fragment="1"><br data-mce-fragment="1">We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.<br data-mce-fragment="1"><br data-mce-fragment="1">For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.<br data-mce-fragment="1"><br data-mce-fragment="1">Please expect a message from our rider when your order is about to be delivered.<br data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>TERMS &amp; CONDITIONS</strong><br data-mce-fragment="1">1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com<br data-mce-fragment="1"><br data-mce-fragment="1">2. Strictly no refunds and cancellations.<br data-mce-fragment="1"><br data-mce-fragment="1">3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.<br data-mce-fragment="1"><strong><br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162098768</id>
+      <title>Small Tray (6-8 pax)</title>
+      <s:price currency="PHP">580.00</s:price>
+      <s:sku>CESARSLD-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613162098768</id>
+      <title>Big Tray (10-12 pax)</title>
+      <s:price currency="PHP">870.00</s:price>
+      <s:sku>CESARSLD-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6613156397136</id>
+    <published>2022-12-21T18:36:19+08:00</published>
+    <updated>2022-12-21T18:36:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/fresh-prawns-with-chili-ginger-garlic-butter-sauce"/>
+    <title>Fresh Prawns with Chili-Ginger-Garlic Butter Sauce</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/shrimp.jpg?v=1651673286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2600.00 - 3850.00
+            <a href="https://thesugarfreebakery.com/products/fresh-prawns-with-chili-ginger-garlic-butter-sauce">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1">Fresh-off-the-hook giant prawns coated with homemade ginger and chili garlic butter sauce. A must try!</span></p>
+<p>Party trays to choose from: <strong><br></strong>Good for 6-8 pax or 10-12 pax</p>
+<p><strong><br>DELIVERY INFO</strong><br data-mce-fragment="1"><br data-mce-fragment="1">We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.<br data-mce-fragment="1"><br data-mce-fragment="1">For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.<br data-mce-fragment="1"><br data-mce-fragment="1">Please expect a message from our rider when your order is about to be delivered.<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>TERMS &amp; CONDITIONS</strong><br data-mce-fragment="1">1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com<br data-mce-fragment="1"><br data-mce-fragment="1">2. Strictly no refunds and cancellations.<br data-mce-fragment="1"><br data-mce-fragment="1">3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.<strong><br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613156397136</id>
+      <title>Small Tray (6-8pax)</title>
+      <s:price currency="PHP">2600.00</s:price>
+      <s:sku>PRWNS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613156397136</id>
+      <title>Big Tray (10-12 pax)</title>
+      <s:price currency="PHP">3850.00</s:price>
+      <s:sku>PRWNS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6613156331600</id>
+    <published>2022-12-21T18:36:19+08:00</published>
+    <updated>2022-12-21T18:36:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/chicken-marsala-in-red-wine"/>
+    <title>Creamy Chicken Marsala in Red Wine</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/chickenmasala.jpg?v=1651672892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2300.00 - 3200.00
+            <a href="https://thesugarfreebakery.com/products/chicken-marsala-in-red-wine">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1">Rich, thick, and creamy spring chicken dish stewed in premium red wine and 7 herbs and spices.</span> </p>
+<p>Party trays to choose from: </p>
+<p>Good for 6-8 pax or 10-12 pax</p>
+<p><strong><br>DELIVERY INFO<br data-mce-fragment="1"><br data-mce-fragment="1"></strong>We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.<br data-mce-fragment="1"><br data-mce-fragment="1">For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.<br data-mce-fragment="1"><br data-mce-fragment="1">Please expect a message from our rider when your order is about to be delivered.<strong><br data-mce-fragment="1"><br data-mce-fragment="1">TERMS &amp; CONDITIONS<br data-mce-fragment="1"></strong>1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com<br data-mce-fragment="1"><br data-mce-fragment="1">2. Strictly no refunds and cancellations.<br data-mce-fragment="1"><br data-mce-fragment="1">3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.<strong><br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613156331600</id>
+      <title>Small Tray (6-8pax)</title>
+      <s:price currency="PHP">2300.00</s:price>
+      <s:sku>CHKNMSLA-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613156331600</id>
+      <title>Big Tray (10-12 pax)</title>
+      <s:price currency="PHP">3200.00</s:price>
+      <s:sku>CHKNMSLA-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6613156298832</id>
+    <published>2022-12-21T18:36:19+08:00</published>
+    <updated>2022-12-21T18:36:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/chimichurri-crackling-pork-belly"/>
+    <title>Chimichurri Crackling Pork Belly</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/Cracklingpork.jpg?v=1651673571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2350.00 - 3300.00
+            <a href="https://thesugarfreebakery.com/products/chimichurri-crackling-pork-belly">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Scrumptuous 3-hour slow-roasted pork belly with crispy crackling skin served with freshly made chimichurri sauce</span> <br><meta charset="UTF-8"></p>
+<p>Party trays to choose from: <strong><br></strong>Good for 6-8 pax or 10-12 pax</p>
+<p><meta charset="utf-8"><strong>DELIVERY INFO</strong><br><br>We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.<br data-mce-fragment="1"><br data-mce-fragment="1">For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM for Next-Day Delivery.<br data-mce-fragment="1"><br data-mce-fragment="1">Please expect a message from our rider when your order is about to be delivered.<br><br><strong>TERMS &amp; CONDITIONS</strong><br><span>1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com</span><br><br><span>2. Strictly no refunds and cancellations.</span><br><br><span>3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613156298832</id>
+      <title>Small Tray (6-8 pax)</title>
+      <s:price currency="PHP">2350.00</s:price>
+      <s:sku>CHMPRK-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6613156298832</id>
+      <title>Big Tray (10-12 pax)</title>
+      <s:price currency="PHP">3300.00</s:price>
+      <s:sku>CHMPRK-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6782686298192</id>
+    <published>2022-12-19T16:33:32+08:00</published>
+    <updated>2022-12-19T16:33:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/classic-roasted-pumpkin-soup"/>
+    <title>Classic Roasted Pumpkin Soup</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/ClassicRoastedPumpkinSoup.jpg?v=1671428356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            650.00 - 950.00
+            <a href="https://thesugarfreebakery.com/products/classic-roasted-pumpkin-soup">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Delicious, Soothing, Classic Roasted Pumpkin. Slices of fresh pumpkin are individually roasted to smokey sweetness, then blended with fresh cream, chicken stock, our vegetable medley, and our chef’s blend of herbs and spices to serve ladle-after-ladle of golden sunshine<em>.</em></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Sugar-Free</li>
+<li data-mce-fragment="1">No Preservatives</li>
+<li data-mce-fragment="1">Gluten-Free</li>
+</ul>
+<p data-mce-fragment="1">Ingredients: Pumpkin, Celery, Cream, Chicken Stock, Bell Pepper, White Onion, Garlic &amp; spices </p>
+<p>Sizes to choose from: <strong><br></strong>Good for 6-8 pax or 10-12 pax</p>
+<p><strong>DELIVERY INFO</strong><br>We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.<br><br>For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.<br><br>Please expect a message from our rider when your order is about to be delivered.<br><br><strong>TERMS &amp; CONDITIONS</strong><br>1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com<br><br>2. Strictly no refunds and cancellations.<br><br>3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6782686298192</id>
+      <title>Small Tray (6-8 pax)</title>
+      <s:price currency="PHP">650.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6782686298192</id>
+      <title>Big Tray (10-12 pax)</title>
+      <s:price currency="PHP">950.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6782686036048</id>
+    <published>2022-12-19T16:33:31+08:00</published>
+    <updated>2022-12-19T16:33:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/chunky-bacon-potato-chowder"/>
+    <title>Chunky Bacon Potato Chowder Soup</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/ChunkyBaconPotatoChowder.jpg?v=1671427998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            650.00 - 950.00
+            <a href="https://thesugarfreebakery.com/products/chunky-bacon-potato-chowder">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Delicious, Filling, Chunky Bacon Potato Chowder. Our chowder is a hefty, spoon-bending stew of smokey bacon, cream, and farm-fresh potatoes, celery, and corn, simmered for hours with our onion-based chicken stock.</p>
+<ul data-mce-fragment="1">
+<li>Low Carb</li>
+<li data-mce-fragment="1">No Preservatives</li>
+<li data-mce-fragment="1">Sugar-Free</li>
+</ul>
+<p data-mce-fragment="1">Ingredients: Chicken Stock, Cream, Potato, Smoked Bacon, Celery, White Onion &amp; fresh Corn</p>
+<p>Sizes to choose from: <strong><br></strong>Good for 6-8 pax or 10-12 pax</p>
+<p><strong>DELIVERY INFO</strong><br>We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.<br><br>For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.<br><br>Please expect a message from our rider when your order is about to be delivered.<br><br><strong>TERMS &amp; CONDITIONS</strong><br>1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com<br><br>2. Strictly no refunds and cancellations.<br><br>3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6782686036048</id>
+      <title>Small Tray (6-8 pax)</title>
+      <s:price currency="PHP">650.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6782686036048</id>
+      <title>Big Tray (10-12 pax)</title>
+      <s:price currency="PHP">950.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6682411728976</id>
+    <published>2022-05-04T17:14:56+08:00</published>
+    <updated>2022-05-04T17:14:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/creamy-roasted-mushroom-soup"/>
+    <title>Creamy Roasted Mushroom Soup</title>
+    <s:type></s:type>
+    <s:vendor>Eat&apos;sLifeManila</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/mushroomsoup.jpg?v=1651655748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eat&#39;sLifeManila<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            650.00 - 950.00
+            <a href="https://thesugarfreebakery.com/products/creamy-roasted-mushroom-soup">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1" class="p1"><strong>Delicious, Comforting, Creamy Roasted Mushroom Soup.</strong></p>
+<p data-mce-fragment="1" class="p1"><strong></strong><em>A bowl of warmth that drives away your chills. Roasted for warmth Farm-fresh Shiitake and Button mushrooms are delicately roasted to bring out their full flavor, then simmered for hours in real cream, butter, chicken stock and our chef’s blend of herbs &amp; spices until it’s thick and savory. includes one oven-fresh baguettini. </em></p>
+<p>Sizes to choose from: <strong><br></strong>Good for 6-8 pax or 10-12 pax</p>
+<p> </p>
+<p><strong>DELIVERY INFO</strong><br><br>We deliver party trays from Monday - Sunday straight to your doorstep between 10AM-5PM. Kindly indicate your preferred delivery time in the notes field upon checkout.<br><br>For deliveries outside of this delivery schedule, kindly contact us. Cut-off is every 5PM on the day before delivery date.<br><br>Please expect a message from our rider when your order is about to be delivered.<br><br><br><strong>TERMS &amp; CONDITIONS</strong><br>1. Full payment must be made at least 24 hours before the delivery schedule. You may settle your payment via BPI/BDO Bank Transfer, GCash, or PayPal. For bank transfers, please send us a copy of your proof of payment to thesugarfreebakery@gmail.com<br><br>2. Strictly no refunds and cancellations.<br><br>3. Delivery address must be in Metro Manila. For delivery addresses outside Metro Manila, customer shall opt for pick up on checkout to proceed with their order.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6682411728976</id>
+      <title>Small Tray (6-8 pax)</title>
+      <s:price currency="PHP">650.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6682411728976</id>
+      <title>Big Tray (10-12 pax)</title>
+      <s:price currency="PHP">950.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thesugarfreebakery.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thesugarfreebakery.com/collections/sugar-free-drinks.atom"/>
+  <title>The Sugar-Free Bakery</title>
+  <updated>2022-10-14T17:27:13+08:00</updated>
+  <author>
+    <name>The Sugar-Free Bakery</name>
+  </author>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6760535720016</id>
+    <published>2022-10-14T17:27:13+08:00</published>
+    <updated>2022-10-14T17:27:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/seriously-sugar-free-coffee"/>
+    <title>Seriously Sugar-Free Coffee</title>
+    <s:type>Beverage</s:type>
+    <s:vendor>The Sugar-Free Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/SFBCoffee.jpg?v=1665739298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Sugar-Free Bakery<br>
+        <strong>Type: </strong>Beverage<br>
+        <strong>Price: </strong>
+            220.00 - 250.00
+            <a href="https://thesugarfreebakery.com/products/seriously-sugar-free-coffee">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">BREWED WITH A BANG! Introducing Seriously Sugar-Free Coffee, our 16-hr House Blend Cold Brew! Available in strong black and dairy-free latte. Best served with ice.<br><br><strong>Seriously Sugar-Free Coffee</strong><br></p>
+<p>Delivered in 2s, choose your variant:</p>
+<ul>
+<li>
+<strong>Black:</strong> 1 Black + 1 Black Php 220</li>
+<li>
+<strong>1 Black + 1 Latte</strong> Php 250 </li>
+<li>
+<strong>Latte:</strong> 1 Latte + 1 Latte Php 250</li>
+</ul>
+<p><strong>DELIVERY INFO:</strong></p>
+<p><span>We deliver goods on Sunday-Saturday evening straight to your doorstep between </span><span>6PM-9</span><span>PM. Cut-off is every 5PM for Next-Day Delivery from Monday-Sunday.</span></p>
+<p>Please expect a message from our rider when your order is about to be delivered.</p>
+<style type="text/css"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<table border="1" dir="ltr" cellpadding="0" cellspacing="0" xmlns="http://www.w3.org/1999/xhtml">
+<colgroup>
+<col width="100">
+<col width="100">
+</colgroup>
+<tbody>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Shelf Life"}'>Shelf Life</td>
+<td data-sheets-value='{"1":2,"2":"7 days, refrigerated."}'>7 days, refrigerated.</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Storage Instructions"}'>Storage Instructions</td>
+<td data-sheets-value='{"1":2,"2":"Store in airtight container, refrigerated."}'>
+<div>
+<div>Keep refrigerated.</div>
+</div>
+</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Serving Instructions"}'>Serving Instructions</td>
+<td data-sheets-value='{"1":2,"2":"Serve chilled."}'>Serve chilled.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>blueberry</s:tag>
+    <s:tag>care box</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>croissant</s:tag>
+    <s:tag>danish</s:tag>
+    <s:tag>Dessert</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Holiday Gifting</s:tag>
+    <s:tag>mango</s:tag>
+    <s:tag>pastry</s:tag>
+    <s:tag>products</s:tag>
+    <s:tag>Sugar free</s:tag>
+    <s:tag>Sugar Free Bakery</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6760535720016</id>
+      <title>BLACK</title>
+      <s:price currency="PHP">220.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6760535720016</id>
+      <title>1 BLACK + 1 LATTE</title>
+      <s:price currency="PHP">250.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6760535720016</id>
+      <title>LATTE</title>
+      <s:price currency="PHP">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6747764883536</id>
+    <published>2022-09-22T19:53:04+08:00</published>
+    <updated>2022-09-22T19:53:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/vegan-matcha-milk-tea"/>
+    <title>Vegan Matcha Milk Tea</title>
+    <s:type>Dessert</s:type>
+    <s:vendor>The Sugar-Free Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/Sugar-FreeVeganMatchaMilkTeaweb.jpg?v=1663846753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Sugar-Free Bakery<br>
+        <strong>Type: </strong>Dessert<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yes, we've made our milk teas not only sugar-free but also vegan! Take a sip of this creamy milk tea with a delicate &amp; earthy taste without the sugar.</p>
+<p>This product is:</p>
+<ul>
+<li>low-carb</li>
+<li>sugar-free</li>
+<li>100% natural</li>
+<li>diabetic-friendly</li>
+<li>and even keto-friendly</li>
+</ul>
+<p><br><strong>Sugar-Free Vegan Matcha Milk Tea</strong><br>500 ml for Php 180 <br></p>
+<p>Best consumed immediately.<br></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<style type="text/css"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<table border="1" dir="ltr" cellpadding="0" cellspacing="0" xmlns="http://www.w3.org/1999/xhtml">
+<colgroup> <col width="100"> <col width="100"> </colgroup>
+<tbody>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Shelf Life"}'>Shelf Life</td>
+<td data-sheets-value='{"1":2,"2":"1 day, refrigerated."}'>1 day, refrigerated.</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Storage Instructions"}'>Storage Instructions</td>
+<td data-sheets-value='{"1":2,"2":"3 days, refrigerated. Consume immidiately once opened."}'>
+<div>
+<div>3 days, refrigerated. Consume immediately once opened.</div>
+</div>
+</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Serving Instructions"}'>Serving Instructions</td>
+<td data-sheets-value='{"1":2,"2":"Shake well and serve chilled."}'>
+<div>
+<div>Shake well and serve chilled.</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>DELIVERY INFO:</strong></p>
+<p><span>We deliver goods on Sunday-Saturday evening straight to your doorstep between </span><span>6PM-9</span><span>PM. Cut-off is every 5PM for Next-Day Delivery from Monday-Sunday.</span> </p>
+<p><span>Please expect a message from our rider when your order is about to be delivered. </span></p>
+<p><b>Multiple Address Delivery &amp; Bulk Order</b><br></p>
+<p class="p1"><meta charset="utf-8"><span data-mce-fragment="1">For 2 or more delivery addresses (with a minimum spend of PHP 1,500), send us an email at thesugarfreebakery@gmail.com to receive our multiple address form.</span></p>
+<p class="p1"><span><b>Special Delivery Requests</b></span></p>
+<p class="p1">For special delivery requests outside of our regular delivery schedule (Sunday-Saturday, 6:00 PM - 9:00 PM), additional fees may apply. Kindly send your inquiries at  <a href="tel:+63-949-786-5399" data-mce-href="tel:+63-949-786-5399"><span class="s1">0949 786 5399</span></a> or<span> </span><meta charset="utf-8"><span data-mce-fragment="1">thesugarfreebakery@gmail.com.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6747764883536</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6747786739792</id>
+    <published>2022-09-22T19:37:19+08:00</published>
+    <updated>2022-09-22T19:37:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/vegan-purple-taro-milk-tea"/>
+    <title>Vegan Purple Taro Milk Tea</title>
+    <s:type>Dessert</s:type>
+    <s:vendor>The Sugar-Free Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/Sugar-FreeVeganPurpleTaroMilkTeaweb.jpg?v=1663846560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Sugar-Free Bakery<br>
+        <strong>Type: </strong>Dessert<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You can now enjoy sugar-free and vegan milk teas! Enjoy this silky vegan milk tea with a nutty &amp; subtly sweet taste for dessert or as an afternoon drink!</p>
+<p>This product is:</p>
+<ul>
+<li>low-carb</li>
+<li>sugar-free</li>
+<li>100% natural</li>
+<li>diabetic-friendly</li>
+<li>and even keto-friendly</li>
+</ul>
+<p><br><strong>Sugar-Free Vegan Purple Taro Milk Tea</strong><br>500 ml for Php 180 <br></p>
+<p>Best consumed immediately.<br></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<style type="text/css"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<table border="1" dir="ltr" cellpadding="0" cellspacing="0" xmlns="http://www.w3.org/1999/xhtml">
+<colgroup> <col width="100"> <col width="100"> </colgroup>
+<tbody>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Shelf Life"}'>Shelf Life</td>
+<td data-sheets-value='{"1":2,"2":"1 day, refrigerated."}'>1 day, refrigerated.</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Storage Instructions"}'>Storage Instructions</td>
+<td data-sheets-value='{"1":2,"2":"3 days, refrigerated. Consume immidiately once opened."}'>
+<div>
+<div>3 days, refrigerated. Consume immediately once opened.</div>
+</div>
+</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Serving Instructions"}'>Serving Instructions</td>
+<td data-sheets-value='{"1":2,"2":"Shake well and serve chilled."}'>
+<div>
+<div>Shake well and serve chilled.</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>DELIVERY INFO:</strong></p>
+<p><span>We deliver goods on Sunday-Saturday evening straight to your doorstep between </span><span>6PM-9</span><span>PM. Cut-off is every 5PM for Next-Day Delivery from Monday-Sunday.</span> </p>
+<p><span>Please expect a message from our rider when your order is about to be delivered. </span></p>
+<p><b>Multiple Address Delivery &amp; Bulk Order</b><br></p>
+<p class="p1"><meta charset="utf-8"><span data-mce-fragment="1">For 2 or more delivery addresses (with a minimum spend of PHP 1,500), send us an email at thesugarfreebakery@gmail.com to receive our multiple address form.</span></p>
+<p class="p1"><span><b>Special Delivery Requests</b></span></p>
+<p class="p1">For special delivery requests outside of our regular delivery schedule (Sunday-Saturday, 6:00 PM - 9:00 PM), additional fees may apply. Kindly send your inquiries at  <a href="tel:+63-949-786-5399" data-mce-href="tel:+63-949-786-5399"><span class="s1">0949 786 5399</span></a> or<span> </span><meta charset="utf-8"><span data-mce-fragment="1">thesugarfreebakery@gmail.com.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6747786739792</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/6557927833680</id>
+    <published>2021-06-01T17:47:14+08:00</published>
+    <updated>2021-06-01T17:47:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/seriously-sugar-free-thai-milk-tea"/>
+    <title>Seriously Sugar-Free Thai Milk Tea</title>
+    <s:type>Beverage</s:type>
+    <s:vendor>The Sugar-Free Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/THAIMILKTEAw.jpg?v=1630487618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Sugar-Free Bakery<br>
+        <strong>Type: </strong>Beverage<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>kSAWADEEKA!</strong><br></p>
+<p><strong>Sip Sweetly, But Nothing Sugary!</strong></p>
+<p>Have a TEA-rrific day! ✨<br><br>We bet everyone's excited about our Sugar-Free Thai Milk Tea! Take a sip and enjoy its bold, creamy, aromatic, and sweet taste of freshly brewed Cha Yen without the sugar.<br><br>Now brewing and ready for orders!</p>
+<p> Delivered direct to your door, it’s:</p>
+<ul>
+<li>Sugar-Free<br>
+</li>
+<li>Gluten-Free</li>
+<li>Keto-Approved</li>
+<li>Diabetic-Friendly</li>
+<li>Low Carb</li>
+</ul>
+<meta charset="utf-8">
+<p><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>DELIVERY INFO:</strong></span></p>
+<p><span>We deliver goods on Sunday-Saturday evening straight to your doorstep between </span><span>6PM-9</span><span>PM. Cut-off is every 5PM for Next-Day Delivery from Monday-Sunday.</span></p>
+<p>Please expect a message from our rider when your order is about to be delivered. </p>
+<p><span style="text-decoration: underline;"><strong>CHILLING INSTRUCTIONS:</strong></span></p>
+<meta charset="utf-8">
+<p><span>Once received, chill your Sugar-Free Milk Tea in the refrigerator, shake well and consume immediately.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>and such</s:tag>
+    <s:tag>Beverage</s:tag>
+    <s:tag>Keto</s:tag>
+    <s:tag>Milk Tea</s:tag>
+    <s:tag>MILK TEA PH</s:tag>
+    <s:tag>milktea</s:tag>
+    <s:tag>MILKTEAPH</s:tag>
+    <s:tag>products</s:tag>
+    <s:tag>SFB</s:tag>
+    <s:tag>Sugar-Free</s:tag>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/6557927833680</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thesugarfreebakery.com/products/3721553903696</id>
+    <published>2021-06-01T17:47:10+08:00</published>
+    <updated>2021-06-01T17:47:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thesugarfreebakery.com/products/seriously-sugar-free-milk-tea"/>
+    <title>Seriously Sugar-Free Milk Tea</title>
+    <s:type>Beverage</s:type>
+    <s:vendor>The Sugar-Free Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0243/8437/2816/products/SFBMILKTEANEW.jpg?v=1649819935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Sugar-Free Bakery<br>
+        <strong>Type: </strong>Beverage<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Sip Sweetly, But Nothing Sugary!</strong></p>
+<p>That’s right! We have our <strong>Seriously Sugar-free Milktea </strong>that you can enjoy, sinkers, toppers, and all!!!</p>
+<p>For anyone who’s ever loved the refreshing, creamy sweetness of an ice-cold milktea with their favorite choice of add-ons, can now love it all the more knowing that it’s sugar-free!</p>
+<p>Delivered direct to your door, it’s:</p>
+<ul>
+<li>low-carb</li>
+<li>gluten-free</li>
+<li>100% natural</li>
+<li>diabetic-friendly</li>
+<li>and even keto-friendly</li>
+</ul>
+<p>Seriously, this could be the fittest milk tea you’ve ever had. So don’t just sip there… pre-order now.</p>
+<meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>DELIVERY INFO:</strong></span></p>
+<p><span>We deliver goods on Sunday-Saturday evening straight to your doorstep between </span><span>6PM-9</span><span>PM. Cut-off is every 5PM for Next-Day Delivery from Monday-Sunday.</span></p>
+<p>Please expect a message from our rider when your order is about to be delivered. </p>
+<p><span style="text-decoration: underline;"><strong>CHILLING INSTRUCTIONS:</strong></span></p>
+<meta charset="utf-8">
+<p><span>Once received, chill your Sugar-Free Milk Tea in the refrigerator, shake well and consume immediately.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thesugarfreebakery.com/products/3721553903696</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
